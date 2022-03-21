@@ -1,0 +1,302 @@
+body {
+  /* font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; */
+  font-family: 'Arial';
+  margin: 0px;
+  position: relative;
+  font-size: 14px;
+  /* width: 960px; */
+}
+
+
+.node circle {
+  fill: #fff;
+  stroke: #01324b;
+  stroke-width: 1.5px;
+}
+
+.node circle:hover {
+  cursor: pointer;
+}
+
+.lineNode {
+  fill: #fff;
+  stroke-width: 1px;
+}
+
+.lineNode:hover {
+  cursor: pointer;
+}
+
+
+.node-text-label {
+  font: 12px sans-serif;
+  fill: #000;
+  pointer-events: none;
+}
+
+.node-text-count {
+  font: 12px sans-serif;
+  fill: #FFF;
+  pointer-events: none;
+
+}
+
+.link {
+  fill: none;
+  stroke: #ccc;
+  stroke-width: 2px;
+  opacity: 0.5;
+}
+
+.collapsible-tree-rotation-group {
+  transform-origin: center;
+  transform: translate(0%, 50%) rotate(90deg);
+}
+
+.focus.line {
+  fill: none;
+  stroke: #cedbe0;
+  stroke-width: 2;
+  clip-path: url(#clip);
+}
+
+.context.line {
+  fill: none;
+  stroke: #cedbe0;
+  stroke-width: 1;
+  clip-path: url(#clip);
+}
+
+.zoom {
+  cursor: move;
+  fill: none;
+  pointer-events: all;
+}
+
+
+.selection {
+  stroke: none;
+  fill-opacity: 0.05;
+}
+
+.line-annotation-label {
+  font-size: 0.75rem;
+  fill: #000;
+  stroke: none;
+  stroke-width: 0;
+  text-anchor: start;
+}
+
+.tick text {
+  fill: #565656;
+  font-size: 9px;
+}
+
+.tick line {
+  stroke: #565656 !important;
+}
+
+.yAxisTicks {
+  stroke-width: 0.5;
+  stroke: #565656;
+  stroke-dasharray: "2 2";
+  opacity: 0.3;
+}
+
+.xAxisTicks {
+  stroke-width: 0.5;
+  stroke: #565656;
+  stroke-dasharray: "2 2";
+  opacity: 0.3;
+}
+
+.collapsible-tree-svg {
+  background-color: #FFF;
+  float: left;
+}
+
+.small-multiples-svg {
+  background-color: #FFF;
+  float: right;
+}
+
+.line-chart-svg {
+  background-color: #FFF;
+  transform: translate(0px, 50%);
+
+}
+
+.smallMultipleChart.axis.axis--y text {
+  text-anchor: start;
+}
+
+.smallMultipleChart.axis.axis--x text {
+  text-anchor: middle;
+}
+
+.yAxisTitle {
+  font-size: 0.85rem;
+  fill: #565656;
+  text-anchor: start;
+}
+
+.domain {
+  display: none;
+}
+
+.trimmed:hover {
+  cursor: pointer;
+}
+
+.tick-rect-group:hover {
+  cursor: pointer;
+
+}
+
+.sortLabel {
+  opacity: 0.5;
+}
+
+.sortLabel.selected-sortOrder {
+  opacity: 1;
+  fill: #0070a8;
+  font-weight: bold;
+}
+
+.sortLabel:hover {
+  cursor: pointer;
+  fill: #0070a8;
+  font-weight: bold;
+}
+
+.maskingBars {
+  opacity: 0.0;
+  fill: #cedbe0;
+}
+
+.maskingBars:hover {
+  cursor: pointer;
+  opacity: 0.5;
+}
+
+.handle {
+  fill: #FFF;
+  stroke: #01324b;
+  stroke-width: 1px;
+}
+
+.resize {
+  fill: #555;
+}
+
+
+
+.hide {
+  display: none;
+}
+
+
+
+.blueHighlight {
+  color: #0070a8;
+  font-weight: bold;
+}
+
+.orangeHighlight {
+  color: #c75301;
+  font-weight: bold;
+}
+
+.instructions {
+  width: 50%;
+  margin: 50px auto;
+
+}
+
+.instruction {
+  font-size: 2.0rem;
+  font-weight: bold;
+}
+
+.instructionsList {
+  margin-bottom: 10px;
+}
+
+.submitTopic {
+  margin: 50px;
+}
+
+.mask {
+  width: 100%;
+  height: auto;
+  background-color: #FFF;
+  opacity: 0.95;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+}
+
+.hide {
+  display: none;
+}
+
+
+.container {
+  margin-top: 0%;
+}
+
+
+.box {
+  width: 300px;
+  border: 1px solid #000;
+  margin: 50px;
+  cursor: pointer;
+}
+
+.toggle-container {
+  transition: height 0.35s ease-in-out;
+  overflow: hidden;
+}
+
+.toggle-container:not(.active) {
+  display: none;
+}
+
+.instructionLabel {
+  font-size: 10px;
+  font-weight: bold;
+  text-align: left;
+  margin: 0px;
+  border-style: solid;
+  padding: 2px;
+  border-color: #000;
+}
+
+.instructionLabel:hover {
+  cursor: pointer;
+}
+
+
+form {
+  text-align: center;
+}
+
+.scale_button {
+  cursor: pointer;
+}
+
+.scale_button rect {
+  fill: #eaeaea;
+}
+
+.scale_button:hover text {
+  fill: #417DD6;
+  transition: all 0.1s cubic-bezier(.25, .8, .25, 1);
+}
+
+
+#buttonText {
+  fill: #565656;
+  font-size: 9px;
+  font-family: Helvetica, Arial, "sans serif";
+}

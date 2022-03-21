@@ -1,0 +1,10850 @@
+[
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2012,
+    "month": 1,
+    "articles": 324,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2012,
+    "month": 1,
+    "articles": 329,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2012,
+    "month": 2,
+    "articles": 231,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2012,
+    "month": 2,
+    "articles": 234,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2012,
+    "month": 3,
+    "articles": 314,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2012,
+    "month": 3,
+    "articles": 317,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2012,
+    "month": 4,
+    "articles": 311,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2012,
+    "month": 4,
+    "articles": 313,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2012,
+    "month": 5,
+    "articles": 239,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2012,
+    "month": 5,
+    "articles": 245,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2012,
+    "month": 6,
+    "articles": 355,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2012,
+    "month": 6,
+    "articles": 361,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2012,
+    "month": 7,
+    "articles": 311,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2012,
+    "month": 7,
+    "articles": 313,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2012,
+    "month": 8,
+    "articles": 240,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2012,
+    "month": 8,
+    "articles": 242,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2012,
+    "month": 9,
+    "articles": 312,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2012,
+    "month": 9,
+    "articles": 317,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2012,
+    "month": 10,
+    "articles": 271,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2012,
+    "month": 10,
+    "articles": 279,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2012,
+    "month": 11,
+    "articles": 279,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2012,
+    "month": 11,
+    "articles": 281,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2012,
+    "month": 12,
+    "articles": 312,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2012,
+    "month": 12,
+    "articles": 315,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2013,
+    "month": 1,
+    "articles": 382,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2013,
+    "month": 1,
+    "articles": 383,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2013,
+    "month": 2,
+    "articles": 278,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2013,
+    "month": 2,
+    "articles": 281,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2013,
+    "month": 3,
+    "articles": 345,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2013,
+    "month": 3,
+    "articles": 352,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2013,
+    "month": 4,
+    "articles": 328,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2013,
+    "month": 4,
+    "articles": 330,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2013,
+    "month": 5,
+    "articles": 323,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2013,
+    "month": 5,
+    "articles": 325,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2013,
+    "month": 6,
+    "articles": 400,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2013,
+    "month": 6,
+    "articles": 406,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2013,
+    "month": 7,
+    "articles": 382,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2013,
+    "month": 7,
+    "articles": 385,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2013,
+    "month": 8,
+    "articles": 297,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2013,
+    "month": 8,
+    "articles": 299,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2013,
+    "month": 9,
+    "articles": 355,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2013,
+    "month": 9,
+    "articles": 359,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2013,
+    "month": 10,
+    "articles": 378,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2013,
+    "month": 10,
+    "articles": 378,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2013,
+    "month": 11,
+    "articles": 355,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2013,
+    "month": 11,
+    "articles": 357,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2013,
+    "month": 12,
+    "articles": 403,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2013,
+    "month": 12,
+    "articles": 406,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2014,
+    "month": 1,
+    "articles": 453,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2014,
+    "month": 1,
+    "articles": 460,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2014,
+    "month": 2,
+    "articles": 330,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2014,
+    "month": 2,
+    "articles": 331,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2014,
+    "month": 3,
+    "articles": 395,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2014,
+    "month": 3,
+    "articles": 400,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2014,
+    "month": 4,
+    "articles": 382,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2014,
+    "month": 4,
+    "articles": 384,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2014,
+    "month": 5,
+    "articles": 360,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2014,
+    "month": 5,
+    "articles": 366,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2014,
+    "month": 6,
+    "articles": 432,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2014,
+    "month": 6,
+    "articles": 434,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2014,
+    "month": 7,
+    "articles": 430,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2014,
+    "month": 7,
+    "articles": 441,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2014,
+    "month": 8,
+    "articles": 356,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2014,
+    "month": 8,
+    "articles": 359,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2014,
+    "month": 9,
+    "articles": 414,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2014,
+    "month": 9,
+    "articles": 418,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2014,
+    "month": 10,
+    "articles": 378,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2014,
+    "month": 10,
+    "articles": 382,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2014,
+    "month": 11,
+    "articles": 315,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2014,
+    "month": 11,
+    "articles": 317,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2014,
+    "month": 12,
+    "articles": 414,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2014,
+    "month": 12,
+    "articles": 417,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2015,
+    "month": 1,
+    "articles": 440,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2015,
+    "month": 1,
+    "articles": 442,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2015,
+    "month": 2,
+    "articles": 312,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2015,
+    "month": 2,
+    "articles": 316,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2015,
+    "month": 3,
+    "articles": 425,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2015,
+    "month": 3,
+    "articles": 427,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2015,
+    "month": 4,
+    "articles": 431,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2015,
+    "month": 4,
+    "articles": 434,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2015,
+    "month": 5,
+    "articles": 377,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2015,
+    "month": 5,
+    "articles": 381,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2015,
+    "month": 6,
+    "articles": 425,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2015,
+    "month": 6,
+    "articles": 428,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2015,
+    "month": 7,
+    "articles": 427,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2015,
+    "month": 7,
+    "articles": 429,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2015,
+    "month": 8,
+    "articles": 368,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2015,
+    "month": 8,
+    "articles": 372,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2015,
+    "month": 9,
+    "articles": 431,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2015,
+    "month": 9,
+    "articles": 436,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2015,
+    "month": 10,
+    "articles": 493,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2015,
+    "month": 10,
+    "articles": 496,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2015,
+    "month": 11,
+    "articles": 363,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2015,
+    "month": 11,
+    "articles": 368,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2015,
+    "month": 12,
+    "articles": 489,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2015,
+    "month": 12,
+    "articles": 492,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2016,
+    "month": 1,
+    "articles": 495,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2016,
+    "month": 1,
+    "articles": 499,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2016,
+    "month": 2,
+    "articles": 404,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2016,
+    "month": 2,
+    "articles": 406,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2016,
+    "month": 3,
+    "articles": 420,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2016,
+    "month": 3,
+    "articles": 422,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2016,
+    "month": 4,
+    "articles": 405,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2016,
+    "month": 4,
+    "articles": 411,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2016,
+    "month": 5,
+    "articles": 379,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2016,
+    "month": 5,
+    "articles": 381,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2016,
+    "month": 6,
+    "articles": 520,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2016,
+    "month": 6,
+    "articles": 522,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2016,
+    "month": 7,
+    "articles": 559,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2016,
+    "month": 7,
+    "articles": 562,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2016,
+    "month": 8,
+    "articles": 416,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2016,
+    "month": 8,
+    "articles": 420,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2016,
+    "month": 9,
+    "articles": 472,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2016,
+    "month": 9,
+    "articles": 474,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2016,
+    "month": 10,
+    "articles": 430,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2016,
+    "month": 10,
+    "articles": 431,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2016,
+    "month": 11,
+    "articles": 433,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2016,
+    "month": 11,
+    "articles": 435,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2016,
+    "month": 12,
+    "articles": 502,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2016,
+    "month": 12,
+    "articles": 507,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2017,
+    "month": 1,
+    "articles": 494,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2017,
+    "month": 1,
+    "articles": 496,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2017,
+    "month": 2,
+    "articles": 446,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2017,
+    "month": 2,
+    "articles": 446,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2017,
+    "month": 3,
+    "articles": 487,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2017,
+    "month": 3,
+    "articles": 491,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2017,
+    "month": 4,
+    "articles": 473,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2017,
+    "month": 4,
+    "articles": 479,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2017,
+    "month": 5,
+    "articles": 473,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2017,
+    "month": 5,
+    "articles": 476,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2017,
+    "month": 6,
+    "articles": 610,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2017,
+    "month": 6,
+    "articles": 615,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2017,
+    "month": 7,
+    "articles": 492,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2017,
+    "month": 7,
+    "articles": 492,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2017,
+    "month": 8,
+    "articles": 445,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2017,
+    "month": 8,
+    "articles": 450,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2017,
+    "month": 9,
+    "articles": 455,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2017,
+    "month": 9,
+    "articles": 456,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2017,
+    "month": 10,
+    "articles": 453,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2017,
+    "month": 10,
+    "articles": 456,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2017,
+    "month": 11,
+    "articles": 474,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2017,
+    "month": 11,
+    "articles": 476,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2017,
+    "month": 12,
+    "articles": 568,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2017,
+    "month": 12,
+    "articles": 570,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2018,
+    "month": 1,
+    "articles": 604,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2018,
+    "month": 1,
+    "articles": 607,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2018,
+    "month": 2,
+    "articles": 449,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2018,
+    "month": 2,
+    "articles": 453,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2018,
+    "month": 3,
+    "articles": 540,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2018,
+    "month": 3,
+    "articles": 544,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2018,
+    "month": 4,
+    "articles": 566,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2018,
+    "month": 4,
+    "articles": 569,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2018,
+    "month": 5,
+    "articles": 515,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2018,
+    "month": 5,
+    "articles": 517,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2018,
+    "month": 6,
+    "articles": 562,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2018,
+    "month": 6,
+    "articles": 565,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2018,
+    "month": 7,
+    "articles": 620,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2018,
+    "month": 7,
+    "articles": 625,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2018,
+    "month": 8,
+    "articles": 496,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2018,
+    "month": 8,
+    "articles": 500,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2018,
+    "month": 9,
+    "articles": 514,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2018,
+    "month": 9,
+    "articles": 517,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2018,
+    "month": 10,
+    "articles": 629,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2018,
+    "month": 10,
+    "articles": 636,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2018,
+    "month": 11,
+    "articles": 625,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2018,
+    "month": 11,
+    "articles": 629,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2018,
+    "month": 12,
+    "articles": 630,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2018,
+    "month": 12,
+    "articles": 644,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2019,
+    "month": 1,
+    "articles": 762,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2019,
+    "month": 1,
+    "articles": 766,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2019,
+    "month": 2,
+    "articles": 452,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2019,
+    "month": 2,
+    "articles": 453,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2019,
+    "month": 3,
+    "articles": 542,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2019,
+    "month": 3,
+    "articles": 545,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2019,
+    "month": 4,
+    "articles": 584,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2019,
+    "month": 4,
+    "articles": 588,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2019,
+    "month": 5,
+    "articles": 530,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2019,
+    "month": 5,
+    "articles": 535,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2019,
+    "month": 6,
+    "articles": 579,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2019,
+    "month": 6,
+    "articles": 583,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2019,
+    "month": 7,
+    "articles": 618,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2019,
+    "month": 7,
+    "articles": 623,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2019,
+    "month": 8,
+    "articles": 562,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2019,
+    "month": 8,
+    "articles": 563,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2019,
+    "month": 9,
+    "articles": 521,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2019,
+    "month": 9,
+    "articles": 524,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2019,
+    "month": 10,
+    "articles": 569,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2019,
+    "month": 10,
+    "articles": 574,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2019,
+    "month": 11,
+    "articles": 757,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2019,
+    "month": 11,
+    "articles": 759,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2019,
+    "month": 12,
+    "articles": 711,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2019,
+    "month": 12,
+    "articles": 715,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2020,
+    "month": 1,
+    "articles": 883,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2020,
+    "month": 1,
+    "articles": 885,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2020,
+    "month": 2,
+    "articles": 604,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2020,
+    "month": 2,
+    "articles": 605,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2020,
+    "month": 3,
+    "articles": 638,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2020,
+    "month": 3,
+    "articles": 640,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2020,
+    "month": 4,
+    "articles": 620,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2020,
+    "month": 4,
+    "articles": 623,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2020,
+    "month": 5,
+    "articles": 589,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2020,
+    "month": 5,
+    "articles": 590,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2020,
+    "month": 6,
+    "articles": 694,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2020,
+    "month": 6,
+    "articles": 696,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2020,
+    "month": 7,
+    "articles": 728,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2020,
+    "month": 7,
+    "articles": 735,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2020,
+    "month": 8,
+    "articles": 612,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2020,
+    "month": 8,
+    "articles": 620,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2020,
+    "month": 9,
+    "articles": 767,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2020,
+    "month": 9,
+    "articles": 768,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2020,
+    "month": 10,
+    "articles": 746,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2020,
+    "month": 10,
+    "articles": 749,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2020,
+    "month": 11,
+    "articles": 692,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2020,
+    "month": 11,
+    "articles": 698,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2020,
+    "month": 12,
+    "articles": 1008,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2020,
+    "month": 12,
+    "articles": 1016,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2021,
+    "month": 1,
+    "articles": 1015,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2021,
+    "month": 1,
+    "articles": 1019,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2021,
+    "month": 2,
+    "articles": 672,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2021,
+    "month": 2,
+    "articles": 676,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2021,
+    "month": 3,
+    "articles": 825,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2021,
+    "month": 3,
+    "articles": 827,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2021,
+    "month": 4,
+    "articles": 799,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2021,
+    "month": 4,
+    "articles": 807,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2021,
+    "month": 5,
+    "articles": 726,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2021,
+    "month": 5,
+    "articles": 729,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2021,
+    "month": 6,
+    "articles": 869,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2021,
+    "month": 6,
+    "articles": 875,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2021,
+    "month": 7,
+    "articles": 730,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2021,
+    "month": 7,
+    "articles": 734,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2021,
+    "month": 8,
+    "articles": 633,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2021,
+    "month": 8,
+    "articles": 637,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2021,
+    "month": 9,
+    "articles": 684,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2021,
+    "month": 9,
+    "articles": 685,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2021,
+    "month": 10,
+    "articles": 696,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2021,
+    "month": 10,
+    "articles": 698,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2021,
+    "month": 11,
+    "articles": 671,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2021,
+    "month": 11,
+    "articles": 671,
+    "depth": -1
+  },
+  {
+    "id": "0",
+    "label": "subtopic 0",
+    "year": 2021,
+    "month": 12,
+    "articles": 817,
+    "depth": 0
+  },
+  {
+    "id": "0",
+    "label": "total",
+    "year": 2021,
+    "month": 12,
+    "articles": 822,
+    "depth": -1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2012,
+    "month": 1,
+    "articles": 36,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2012,
+    "month": 2,
+    "articles": 34,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2012,
+    "month": 3,
+    "articles": 31,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2012,
+    "month": 4,
+    "articles": 43,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2012,
+    "month": 5,
+    "articles": 23,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2012,
+    "month": 6,
+    "articles": 44,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2012,
+    "month": 7,
+    "articles": 45,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2012,
+    "month": 8,
+    "articles": 19,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2012,
+    "month": 9,
+    "articles": 28,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2012,
+    "month": 10,
+    "articles": 37,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2012,
+    "month": 11,
+    "articles": 39,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2012,
+    "month": 12,
+    "articles": 31,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2013,
+    "month": 1,
+    "articles": 42,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2013,
+    "month": 2,
+    "articles": 43,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2013,
+    "month": 3,
+    "articles": 27,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2013,
+    "month": 4,
+    "articles": 32,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2013,
+    "month": 5,
+    "articles": 32,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2013,
+    "month": 6,
+    "articles": 35,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2013,
+    "month": 7,
+    "articles": 51,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2013,
+    "month": 8,
+    "articles": 21,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2013,
+    "month": 9,
+    "articles": 33,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2013,
+    "month": 10,
+    "articles": 48,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2013,
+    "month": 11,
+    "articles": 45,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2013,
+    "month": 12,
+    "articles": 33,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2014,
+    "month": 1,
+    "articles": 47,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2014,
+    "month": 2,
+    "articles": 44,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2014,
+    "month": 3,
+    "articles": 45,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2014,
+    "month": 4,
+    "articles": 42,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2014,
+    "month": 5,
+    "articles": 37,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2014,
+    "month": 6,
+    "articles": 44,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2014,
+    "month": 7,
+    "articles": 40,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2014,
+    "month": 8,
+    "articles": 33,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2014,
+    "month": 9,
+    "articles": 42,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2014,
+    "month": 10,
+    "articles": 43,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2014,
+    "month": 11,
+    "articles": 28,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2014,
+    "month": 12,
+    "articles": 32,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2015,
+    "month": 1,
+    "articles": 51,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2015,
+    "month": 2,
+    "articles": 35,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2015,
+    "month": 3,
+    "articles": 41,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2015,
+    "month": 4,
+    "articles": 46,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2015,
+    "month": 5,
+    "articles": 30,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2015,
+    "month": 6,
+    "articles": 46,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2015,
+    "month": 7,
+    "articles": 36,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2015,
+    "month": 8,
+    "articles": 29,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2015,
+    "month": 9,
+    "articles": 44,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2015,
+    "month": 10,
+    "articles": 43,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2015,
+    "month": 11,
+    "articles": 27,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2015,
+    "month": 12,
+    "articles": 61,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2016,
+    "month": 1,
+    "articles": 46,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2016,
+    "month": 2,
+    "articles": 34,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2016,
+    "month": 3,
+    "articles": 33,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2016,
+    "month": 4,
+    "articles": 36,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2016,
+    "month": 5,
+    "articles": 27,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2016,
+    "month": 6,
+    "articles": 42,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2016,
+    "month": 7,
+    "articles": 43,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2016,
+    "month": 8,
+    "articles": 35,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2016,
+    "month": 9,
+    "articles": 42,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2016,
+    "month": 10,
+    "articles": 33,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2016,
+    "month": 11,
+    "articles": 28,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2016,
+    "month": 12,
+    "articles": 55,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2017,
+    "month": 1,
+    "articles": 32,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2017,
+    "month": 2,
+    "articles": 42,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2017,
+    "month": 3,
+    "articles": 44,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2017,
+    "month": 4,
+    "articles": 36,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2017,
+    "month": 5,
+    "articles": 50,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2017,
+    "month": 6,
+    "articles": 45,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2017,
+    "month": 7,
+    "articles": 37,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2017,
+    "month": 8,
+    "articles": 36,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2017,
+    "month": 9,
+    "articles": 40,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2017,
+    "month": 10,
+    "articles": 30,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2017,
+    "month": 11,
+    "articles": 37,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2017,
+    "month": 12,
+    "articles": 65,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2018,
+    "month": 1,
+    "articles": 53,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2018,
+    "month": 2,
+    "articles": 39,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2018,
+    "month": 3,
+    "articles": 39,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2018,
+    "month": 4,
+    "articles": 38,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2018,
+    "month": 5,
+    "articles": 46,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2018,
+    "month": 6,
+    "articles": 41,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2018,
+    "month": 7,
+    "articles": 48,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2018,
+    "month": 8,
+    "articles": 38,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2018,
+    "month": 9,
+    "articles": 38,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2018,
+    "month": 10,
+    "articles": 57,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2018,
+    "month": 11,
+    "articles": 42,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2018,
+    "month": 12,
+    "articles": 58,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2019,
+    "month": 1,
+    "articles": 53,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2019,
+    "month": 2,
+    "articles": 35,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2019,
+    "month": 3,
+    "articles": 55,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2019,
+    "month": 4,
+    "articles": 53,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2019,
+    "month": 5,
+    "articles": 51,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2019,
+    "month": 6,
+    "articles": 47,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2019,
+    "month": 7,
+    "articles": 41,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2019,
+    "month": 8,
+    "articles": 39,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2019,
+    "month": 9,
+    "articles": 32,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2019,
+    "month": 10,
+    "articles": 49,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2019,
+    "month": 11,
+    "articles": 50,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2019,
+    "month": 12,
+    "articles": 60,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2020,
+    "month": 1,
+    "articles": 63,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2020,
+    "month": 2,
+    "articles": 45,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2020,
+    "month": 3,
+    "articles": 52,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2020,
+    "month": 4,
+    "articles": 51,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2020,
+    "month": 5,
+    "articles": 45,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2020,
+    "month": 6,
+    "articles": 66,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2020,
+    "month": 7,
+    "articles": 62,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2020,
+    "month": 8,
+    "articles": 51,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2020,
+    "month": 9,
+    "articles": 63,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2020,
+    "month": 10,
+    "articles": 55,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2020,
+    "month": 11,
+    "articles": 63,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2020,
+    "month": 12,
+    "articles": 96,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2021,
+    "month": 1,
+    "articles": 82,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2021,
+    "month": 2,
+    "articles": 65,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2021,
+    "month": 3,
+    "articles": 64,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2021,
+    "month": 4,
+    "articles": 60,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2021,
+    "month": 5,
+    "articles": 66,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2021,
+    "month": 6,
+    "articles": 82,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2021,
+    "month": 7,
+    "articles": 67,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2021,
+    "month": 8,
+    "articles": 60,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2021,
+    "month": 9,
+    "articles": 65,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2021,
+    "month": 10,
+    "articles": 63,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2021,
+    "month": 11,
+    "articles": 54,
+    "depth": 1
+  },
+  {
+    "id": "1",
+    "label": "subtopic 1",
+    "year": 2021,
+    "month": 12,
+    "articles": 69,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2012,
+    "month": 1,
+    "articles": 5,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2012,
+    "month": 2,
+    "articles": 3,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2012,
+    "month": 3,
+    "articles": 4,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2012,
+    "month": 4,
+    "articles": 3,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2012,
+    "month": 5,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2012,
+    "month": 6,
+    "articles": 2,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2012,
+    "month": 7,
+    "articles": 3,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2012,
+    "month": 8,
+    "articles": 5,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2012,
+    "month": 9,
+    "articles": 6,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2012,
+    "month": 10,
+    "articles": 5,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2012,
+    "month": 11,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2012,
+    "month": 12,
+    "articles": 4,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2013,
+    "month": 1,
+    "articles": 9,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2013,
+    "month": 2,
+    "articles": 6,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2013,
+    "month": 3,
+    "articles": 4,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2013,
+    "month": 4,
+    "articles": 7,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2013,
+    "month": 5,
+    "articles": 7,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2013,
+    "month": 6,
+    "articles": 8,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2013,
+    "month": 7,
+    "articles": 4,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2013,
+    "month": 8,
+    "articles": 6,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2013,
+    "month": 9,
+    "articles": 7,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2013,
+    "month": 10,
+    "articles": 7,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2013,
+    "month": 11,
+    "articles": 8,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2013,
+    "month": 12,
+    "articles": 3,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2014,
+    "month": 1,
+    "articles": 9,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2014,
+    "month": 2,
+    "articles": 9,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2014,
+    "month": 3,
+    "articles": 9,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2014,
+    "month": 4,
+    "articles": 6,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2014,
+    "month": 5,
+    "articles": 5,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2014,
+    "month": 6,
+    "articles": 7,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2014,
+    "month": 7,
+    "articles": 11,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2014,
+    "month": 8,
+    "articles": 7,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2014,
+    "month": 9,
+    "articles": 11,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2014,
+    "month": 10,
+    "articles": 9,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2014,
+    "month": 11,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2014,
+    "month": 12,
+    "articles": 9,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2015,
+    "month": 1,
+    "articles": 8,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2015,
+    "month": 2,
+    "articles": 6,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2015,
+    "month": 3,
+    "articles": 2,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2015,
+    "month": 4,
+    "articles": 4,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2015,
+    "month": 5,
+    "articles": 5,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2015,
+    "month": 6,
+    "articles": 4,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2015,
+    "month": 7,
+    "articles": 7,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2015,
+    "month": 8,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2015,
+    "month": 9,
+    "articles": 8,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2015,
+    "month": 10,
+    "articles": 8,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2015,
+    "month": 11,
+    "articles": 4,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2015,
+    "month": 12,
+    "articles": 8,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2016,
+    "month": 1,
+    "articles": 5,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2016,
+    "month": 2,
+    "articles": 14,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2016,
+    "month": 3,
+    "articles": 12,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2016,
+    "month": 4,
+    "articles": 5,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2016,
+    "month": 5,
+    "articles": 12,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2016,
+    "month": 6,
+    "articles": 12,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2016,
+    "month": 7,
+    "articles": 7,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2016,
+    "month": 8,
+    "articles": 10,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2016,
+    "month": 9,
+    "articles": 9,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2016,
+    "month": 10,
+    "articles": 14,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2016,
+    "month": 11,
+    "articles": 9,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2016,
+    "month": 12,
+    "articles": 7,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2017,
+    "month": 1,
+    "articles": 7,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2017,
+    "month": 2,
+    "articles": 10,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2017,
+    "month": 3,
+    "articles": 8,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2017,
+    "month": 4,
+    "articles": 11,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2017,
+    "month": 5,
+    "articles": 15,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2017,
+    "month": 6,
+    "articles": 10,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2017,
+    "month": 7,
+    "articles": 9,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2017,
+    "month": 8,
+    "articles": 8,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2017,
+    "month": 9,
+    "articles": 11,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2017,
+    "month": 10,
+    "articles": 14,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2017,
+    "month": 11,
+    "articles": 18,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2017,
+    "month": 12,
+    "articles": 6,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2018,
+    "month": 1,
+    "articles": 17,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2018,
+    "month": 2,
+    "articles": 10,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2018,
+    "month": 3,
+    "articles": 4,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2018,
+    "month": 4,
+    "articles": 8,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2018,
+    "month": 5,
+    "articles": 8,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2018,
+    "month": 6,
+    "articles": 7,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2018,
+    "month": 7,
+    "articles": 11,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2018,
+    "month": 8,
+    "articles": 11,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2018,
+    "month": 9,
+    "articles": 10,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2018,
+    "month": 10,
+    "articles": 16,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2018,
+    "month": 11,
+    "articles": 10,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2018,
+    "month": 12,
+    "articles": 8,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2019,
+    "month": 1,
+    "articles": 33,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2019,
+    "month": 2,
+    "articles": 15,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2019,
+    "month": 3,
+    "articles": 7,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2019,
+    "month": 4,
+    "articles": 12,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2019,
+    "month": 5,
+    "articles": 14,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2019,
+    "month": 6,
+    "articles": 14,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2019,
+    "month": 7,
+    "articles": 17,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2019,
+    "month": 8,
+    "articles": 10,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2019,
+    "month": 9,
+    "articles": 15,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2019,
+    "month": 10,
+    "articles": 11,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2019,
+    "month": 11,
+    "articles": 16,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2019,
+    "month": 12,
+    "articles": 12,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2020,
+    "month": 1,
+    "articles": 23,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2020,
+    "month": 2,
+    "articles": 16,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2020,
+    "month": 3,
+    "articles": 22,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2020,
+    "month": 4,
+    "articles": 14,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2020,
+    "month": 5,
+    "articles": 17,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2020,
+    "month": 6,
+    "articles": 17,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2020,
+    "month": 7,
+    "articles": 19,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2020,
+    "month": 8,
+    "articles": 11,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2020,
+    "month": 9,
+    "articles": 9,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2020,
+    "month": 10,
+    "articles": 22,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2020,
+    "month": 11,
+    "articles": 11,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2020,
+    "month": 12,
+    "articles": 12,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2021,
+    "month": 1,
+    "articles": 17,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2021,
+    "month": 2,
+    "articles": 12,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2021,
+    "month": 3,
+    "articles": 28,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2021,
+    "month": 4,
+    "articles": 12,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2021,
+    "month": 5,
+    "articles": 19,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2021,
+    "month": 6,
+    "articles": 12,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2021,
+    "month": 7,
+    "articles": 14,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2021,
+    "month": 8,
+    "articles": 11,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2021,
+    "month": 9,
+    "articles": 11,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2021,
+    "month": 10,
+    "articles": 15,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2021,
+    "month": 11,
+    "articles": 18,
+    "depth": 1
+  },
+  {
+    "id": "10",
+    "label": "subtopic 10",
+    "year": 2021,
+    "month": 12,
+    "articles": 22,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2012,
+    "month": 1,
+    "articles": 13,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2012,
+    "month": 2,
+    "articles": 13,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2012,
+    "month": 3,
+    "articles": 22,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2012,
+    "month": 4,
+    "articles": 21,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2012,
+    "month": 5,
+    "articles": 14,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2012,
+    "month": 6,
+    "articles": 30,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2012,
+    "month": 7,
+    "articles": 21,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2012,
+    "month": 8,
+    "articles": 20,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2012,
+    "month": 9,
+    "articles": 18,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2012,
+    "month": 10,
+    "articles": 21,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2012,
+    "month": 11,
+    "articles": 19,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2012,
+    "month": 12,
+    "articles": 19,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2013,
+    "month": 1,
+    "articles": 20,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2013,
+    "month": 2,
+    "articles": 17,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2013,
+    "month": 3,
+    "articles": 28,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2013,
+    "month": 4,
+    "articles": 18,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2013,
+    "month": 5,
+    "articles": 20,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2013,
+    "month": 6,
+    "articles": 31,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2013,
+    "month": 7,
+    "articles": 20,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2013,
+    "month": 8,
+    "articles": 25,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2013,
+    "month": 9,
+    "articles": 27,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2013,
+    "month": 10,
+    "articles": 28,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2013,
+    "month": 11,
+    "articles": 20,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2013,
+    "month": 12,
+    "articles": 41,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2014,
+    "month": 1,
+    "articles": 31,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2014,
+    "month": 2,
+    "articles": 22,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2014,
+    "month": 3,
+    "articles": 32,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2014,
+    "month": 4,
+    "articles": 25,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2014,
+    "month": 5,
+    "articles": 26,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2014,
+    "month": 6,
+    "articles": 28,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2014,
+    "month": 7,
+    "articles": 27,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2014,
+    "month": 8,
+    "articles": 20,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2014,
+    "month": 9,
+    "articles": 26,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2014,
+    "month": 10,
+    "articles": 28,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2014,
+    "month": 11,
+    "articles": 24,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2014,
+    "month": 12,
+    "articles": 37,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2015,
+    "month": 1,
+    "articles": 35,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2015,
+    "month": 2,
+    "articles": 14,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2015,
+    "month": 3,
+    "articles": 29,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2015,
+    "month": 4,
+    "articles": 36,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2015,
+    "month": 5,
+    "articles": 31,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2015,
+    "month": 6,
+    "articles": 21,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2015,
+    "month": 7,
+    "articles": 31,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2015,
+    "month": 8,
+    "articles": 28,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2015,
+    "month": 9,
+    "articles": 37,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2015,
+    "month": 10,
+    "articles": 36,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2015,
+    "month": 11,
+    "articles": 24,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2015,
+    "month": 12,
+    "articles": 36,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2016,
+    "month": 1,
+    "articles": 39,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2016,
+    "month": 2,
+    "articles": 20,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2016,
+    "month": 3,
+    "articles": 20,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2016,
+    "month": 4,
+    "articles": 31,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2016,
+    "month": 5,
+    "articles": 32,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2016,
+    "month": 6,
+    "articles": 35,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2016,
+    "month": 7,
+    "articles": 38,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2016,
+    "month": 8,
+    "articles": 32,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2016,
+    "month": 9,
+    "articles": 33,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2016,
+    "month": 10,
+    "articles": 33,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2016,
+    "month": 11,
+    "articles": 33,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2016,
+    "month": 12,
+    "articles": 37,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2017,
+    "month": 1,
+    "articles": 33,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2017,
+    "month": 2,
+    "articles": 33,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2017,
+    "month": 3,
+    "articles": 34,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2017,
+    "month": 4,
+    "articles": 42,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2017,
+    "month": 5,
+    "articles": 24,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2017,
+    "month": 6,
+    "articles": 45,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2017,
+    "month": 7,
+    "articles": 33,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2017,
+    "month": 8,
+    "articles": 32,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2017,
+    "month": 9,
+    "articles": 38,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2017,
+    "month": 10,
+    "articles": 39,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2017,
+    "month": 11,
+    "articles": 25,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2017,
+    "month": 12,
+    "articles": 43,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2018,
+    "month": 1,
+    "articles": 48,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2018,
+    "month": 2,
+    "articles": 26,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2018,
+    "month": 3,
+    "articles": 35,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2018,
+    "month": 4,
+    "articles": 59,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2018,
+    "month": 5,
+    "articles": 25,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2018,
+    "month": 6,
+    "articles": 29,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2018,
+    "month": 7,
+    "articles": 49,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2018,
+    "month": 8,
+    "articles": 41,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2018,
+    "month": 9,
+    "articles": 43,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2018,
+    "month": 10,
+    "articles": 49,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2018,
+    "month": 11,
+    "articles": 45,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2018,
+    "month": 12,
+    "articles": 44,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2019,
+    "month": 1,
+    "articles": 60,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2019,
+    "month": 2,
+    "articles": 42,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2019,
+    "month": 3,
+    "articles": 45,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2019,
+    "month": 4,
+    "articles": 42,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2019,
+    "month": 5,
+    "articles": 30,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2019,
+    "month": 6,
+    "articles": 34,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2019,
+    "month": 7,
+    "articles": 47,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2019,
+    "month": 8,
+    "articles": 46,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2019,
+    "month": 9,
+    "articles": 37,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2019,
+    "month": 10,
+    "articles": 41,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2019,
+    "month": 11,
+    "articles": 49,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2019,
+    "month": 12,
+    "articles": 51,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2020,
+    "month": 1,
+    "articles": 60,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2020,
+    "month": 2,
+    "articles": 62,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2020,
+    "month": 3,
+    "articles": 47,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2020,
+    "month": 4,
+    "articles": 50,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2020,
+    "month": 5,
+    "articles": 43,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2020,
+    "month": 6,
+    "articles": 58,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2020,
+    "month": 7,
+    "articles": 56,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2020,
+    "month": 8,
+    "articles": 39,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2020,
+    "month": 9,
+    "articles": 65,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2020,
+    "month": 10,
+    "articles": 69,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2020,
+    "month": 11,
+    "articles": 55,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2020,
+    "month": 12,
+    "articles": 69,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2021,
+    "month": 1,
+    "articles": 75,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2021,
+    "month": 2,
+    "articles": 50,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2021,
+    "month": 3,
+    "articles": 70,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2021,
+    "month": 4,
+    "articles": 55,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2021,
+    "month": 5,
+    "articles": 62,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2021,
+    "month": 6,
+    "articles": 66,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2021,
+    "month": 7,
+    "articles": 63,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2021,
+    "month": 8,
+    "articles": 59,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2021,
+    "month": 9,
+    "articles": 47,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2021,
+    "month": 10,
+    "articles": 56,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2021,
+    "month": 11,
+    "articles": 61,
+    "depth": 1
+  },
+  {
+    "id": "2",
+    "label": "subtopic 2",
+    "year": 2021,
+    "month": 12,
+    "articles": 42,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2012,
+    "month": 1,
+    "articles": 43,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2012,
+    "month": 2,
+    "articles": 31,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2012,
+    "month": 3,
+    "articles": 43,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2012,
+    "month": 4,
+    "articles": 36,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2012,
+    "month": 5,
+    "articles": 20,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2012,
+    "month": 6,
+    "articles": 37,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2012,
+    "month": 7,
+    "articles": 54,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2012,
+    "month": 8,
+    "articles": 29,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2012,
+    "month": 9,
+    "articles": 51,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2012,
+    "month": 10,
+    "articles": 37,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2012,
+    "month": 11,
+    "articles": 41,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2012,
+    "month": 12,
+    "articles": 40,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2013,
+    "month": 1,
+    "articles": 39,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2013,
+    "month": 2,
+    "articles": 47,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2013,
+    "month": 3,
+    "articles": 50,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2013,
+    "month": 4,
+    "articles": 45,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2013,
+    "month": 5,
+    "articles": 43,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2013,
+    "month": 6,
+    "articles": 58,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2013,
+    "month": 7,
+    "articles": 46,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2013,
+    "month": 8,
+    "articles": 35,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2013,
+    "month": 9,
+    "articles": 48,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2013,
+    "month": 10,
+    "articles": 57,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2013,
+    "month": 11,
+    "articles": 52,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2013,
+    "month": 12,
+    "articles": 66,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2014,
+    "month": 1,
+    "articles": 52,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2014,
+    "month": 2,
+    "articles": 55,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2014,
+    "month": 3,
+    "articles": 66,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2014,
+    "month": 4,
+    "articles": 63,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2014,
+    "month": 5,
+    "articles": 54,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2014,
+    "month": 6,
+    "articles": 71,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2014,
+    "month": 7,
+    "articles": 68,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2014,
+    "month": 8,
+    "articles": 56,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2014,
+    "month": 9,
+    "articles": 65,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2014,
+    "month": 10,
+    "articles": 61,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2014,
+    "month": 11,
+    "articles": 40,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2014,
+    "month": 12,
+    "articles": 56,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2015,
+    "month": 1,
+    "articles": 54,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2015,
+    "month": 2,
+    "articles": 52,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2015,
+    "month": 3,
+    "articles": 64,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2015,
+    "month": 4,
+    "articles": 49,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2015,
+    "month": 5,
+    "articles": 55,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2015,
+    "month": 6,
+    "articles": 68,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2015,
+    "month": 7,
+    "articles": 68,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2015,
+    "month": 8,
+    "articles": 58,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2015,
+    "month": 9,
+    "articles": 46,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2015,
+    "month": 10,
+    "articles": 64,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2015,
+    "month": 11,
+    "articles": 49,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2015,
+    "month": 12,
+    "articles": 61,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2016,
+    "month": 1,
+    "articles": 95,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2016,
+    "month": 2,
+    "articles": 53,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2016,
+    "month": 3,
+    "articles": 58,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2016,
+    "month": 4,
+    "articles": 55,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2016,
+    "month": 5,
+    "articles": 59,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2016,
+    "month": 6,
+    "articles": 78,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2016,
+    "month": 7,
+    "articles": 81,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2016,
+    "month": 8,
+    "articles": 66,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2016,
+    "month": 9,
+    "articles": 66,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2016,
+    "month": 10,
+    "articles": 66,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2016,
+    "month": 11,
+    "articles": 71,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2016,
+    "month": 12,
+    "articles": 66,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2017,
+    "month": 1,
+    "articles": 76,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2017,
+    "month": 2,
+    "articles": 63,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2017,
+    "month": 3,
+    "articles": 69,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2017,
+    "month": 4,
+    "articles": 70,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2017,
+    "month": 5,
+    "articles": 62,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2017,
+    "month": 6,
+    "articles": 72,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2017,
+    "month": 7,
+    "articles": 79,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2017,
+    "month": 8,
+    "articles": 71,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2017,
+    "month": 9,
+    "articles": 73,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2017,
+    "month": 10,
+    "articles": 68,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2017,
+    "month": 11,
+    "articles": 56,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2017,
+    "month": 12,
+    "articles": 79,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2018,
+    "month": 1,
+    "articles": 94,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2018,
+    "month": 2,
+    "articles": 70,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2018,
+    "month": 3,
+    "articles": 88,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2018,
+    "month": 4,
+    "articles": 78,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2018,
+    "month": 5,
+    "articles": 86,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2018,
+    "month": 6,
+    "articles": 93,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2018,
+    "month": 7,
+    "articles": 85,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2018,
+    "month": 8,
+    "articles": 74,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2018,
+    "month": 9,
+    "articles": 80,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2018,
+    "month": 10,
+    "articles": 88,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2018,
+    "month": 11,
+    "articles": 97,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2018,
+    "month": 12,
+    "articles": 88,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2019,
+    "month": 1,
+    "articles": 157,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2019,
+    "month": 2,
+    "articles": 64,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2019,
+    "month": 3,
+    "articles": 65,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2019,
+    "month": 4,
+    "articles": 93,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2019,
+    "month": 5,
+    "articles": 79,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2019,
+    "month": 6,
+    "articles": 72,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2019,
+    "month": 7,
+    "articles": 81,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2019,
+    "month": 8,
+    "articles": 91,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2019,
+    "month": 9,
+    "articles": 85,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2019,
+    "month": 10,
+    "articles": 66,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2019,
+    "month": 11,
+    "articles": 89,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2019,
+    "month": 12,
+    "articles": 87,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2020,
+    "month": 1,
+    "articles": 173,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2020,
+    "month": 2,
+    "articles": 81,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2020,
+    "month": 3,
+    "articles": 91,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2020,
+    "month": 4,
+    "articles": 85,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2020,
+    "month": 5,
+    "articles": 69,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2020,
+    "month": 6,
+    "articles": 88,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2020,
+    "month": 7,
+    "articles": 84,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2020,
+    "month": 8,
+    "articles": 85,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2020,
+    "month": 9,
+    "articles": 81,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2020,
+    "month": 10,
+    "articles": 83,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2020,
+    "month": 11,
+    "articles": 85,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2020,
+    "month": 12,
+    "articles": 73,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2021,
+    "month": 1,
+    "articles": 148,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2021,
+    "month": 2,
+    "articles": 82,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2021,
+    "month": 3,
+    "articles": 85,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2021,
+    "month": 4,
+    "articles": 87,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2021,
+    "month": 5,
+    "articles": 81,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2021,
+    "month": 6,
+    "articles": 98,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2021,
+    "month": 7,
+    "articles": 60,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2021,
+    "month": 8,
+    "articles": 63,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2021,
+    "month": 9,
+    "articles": 72,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2021,
+    "month": 10,
+    "articles": 69,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2021,
+    "month": 11,
+    "articles": 97,
+    "depth": 1
+  },
+  {
+    "id": "3",
+    "label": "subtopic 3",
+    "year": 2021,
+    "month": 12,
+    "articles": 75,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2012,
+    "month": 1,
+    "articles": 2,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2012,
+    "month": 3,
+    "articles": 4,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2012,
+    "month": 4,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2012,
+    "month": 5,
+    "articles": 4,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2012,
+    "month": 6,
+    "articles": 3,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2012,
+    "month": 7,
+    "articles": 6,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2012,
+    "month": 8,
+    "articles": 4,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2012,
+    "month": 9,
+    "articles": 2,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2012,
+    "month": 10,
+    "articles": 3,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2012,
+    "month": 11,
+    "articles": 2,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2012,
+    "month": 12,
+    "articles": 3,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2013,
+    "month": 1,
+    "articles": 2,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2013,
+    "month": 2,
+    "articles": 2,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2013,
+    "month": 3,
+    "articles": 3,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2013,
+    "month": 4,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2013,
+    "month": 5,
+    "articles": 3,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2013,
+    "month": 6,
+    "articles": 2,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2013,
+    "month": 8,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2013,
+    "month": 9,
+    "articles": 4,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2013,
+    "month": 10,
+    "articles": 4,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2013,
+    "month": 11,
+    "articles": 4,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2013,
+    "month": 12,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2014,
+    "month": 1,
+    "articles": 11,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2014,
+    "month": 2,
+    "articles": 2,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2014,
+    "month": 3,
+    "articles": 7,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2014,
+    "month": 4,
+    "articles": 3,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2014,
+    "month": 5,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2014,
+    "month": 6,
+    "articles": 3,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2014,
+    "month": 7,
+    "articles": 8,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2014,
+    "month": 8,
+    "articles": 4,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2014,
+    "month": 9,
+    "articles": 2,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2014,
+    "month": 10,
+    "articles": 4,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2014,
+    "month": 11,
+    "articles": 2,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2014,
+    "month": 12,
+    "articles": 2,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2015,
+    "month": 1,
+    "articles": 8,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2015,
+    "month": 2,
+    "articles": 2,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2015,
+    "month": 3,
+    "articles": 2,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2015,
+    "month": 4,
+    "articles": 7,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2015,
+    "month": 5,
+    "articles": 3,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2015,
+    "month": 6,
+    "articles": 5,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2015,
+    "month": 7,
+    "articles": 6,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2015,
+    "month": 8,
+    "articles": 5,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2015,
+    "month": 9,
+    "articles": 3,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2015,
+    "month": 10,
+    "articles": 4,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2015,
+    "month": 11,
+    "articles": 6,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2015,
+    "month": 12,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2016,
+    "month": 1,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2016,
+    "month": 2,
+    "articles": 5,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2016,
+    "month": 3,
+    "articles": 5,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2016,
+    "month": 4,
+    "articles": 4,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2016,
+    "month": 5,
+    "articles": 2,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2016,
+    "month": 6,
+    "articles": 6,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2016,
+    "month": 7,
+    "articles": 10,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2016,
+    "month": 8,
+    "articles": 4,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2016,
+    "month": 9,
+    "articles": 8,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2016,
+    "month": 10,
+    "articles": 6,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2016,
+    "month": 11,
+    "articles": 4,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2016,
+    "month": 12,
+    "articles": 7,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2017,
+    "month": 1,
+    "articles": 3,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2017,
+    "month": 2,
+    "articles": 6,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2017,
+    "month": 3,
+    "articles": 6,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2017,
+    "month": 4,
+    "articles": 5,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2017,
+    "month": 5,
+    "articles": 5,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2017,
+    "month": 6,
+    "articles": 6,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2017,
+    "month": 7,
+    "articles": 3,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2017,
+    "month": 8,
+    "articles": 6,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2017,
+    "month": 9,
+    "articles": 4,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2017,
+    "month": 10,
+    "articles": 4,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2017,
+    "month": 11,
+    "articles": 3,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2017,
+    "month": 12,
+    "articles": 7,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2018,
+    "month": 1,
+    "articles": 4,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2018,
+    "month": 2,
+    "articles": 4,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2018,
+    "month": 3,
+    "articles": 5,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2018,
+    "month": 4,
+    "articles": 7,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2018,
+    "month": 5,
+    "articles": 9,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2018,
+    "month": 6,
+    "articles": 9,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2018,
+    "month": 7,
+    "articles": 5,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2018,
+    "month": 8,
+    "articles": 7,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2018,
+    "month": 9,
+    "articles": 7,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2018,
+    "month": 10,
+    "articles": 6,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2018,
+    "month": 11,
+    "articles": 7,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2018,
+    "month": 12,
+    "articles": 6,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2019,
+    "month": 1,
+    "articles": 8,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2019,
+    "month": 2,
+    "articles": 4,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2019,
+    "month": 3,
+    "articles": 11,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2019,
+    "month": 4,
+    "articles": 6,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2019,
+    "month": 5,
+    "articles": 3,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2019,
+    "month": 6,
+    "articles": 2,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2019,
+    "month": 7,
+    "articles": 9,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2019,
+    "month": 8,
+    "articles": 6,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2019,
+    "month": 9,
+    "articles": 4,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2019,
+    "month": 10,
+    "articles": 6,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2019,
+    "month": 11,
+    "articles": 7,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2019,
+    "month": 12,
+    "articles": 7,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2020,
+    "month": 1,
+    "articles": 14,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2020,
+    "month": 2,
+    "articles": 7,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2020,
+    "month": 3,
+    "articles": 10,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2020,
+    "month": 4,
+    "articles": 8,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2020,
+    "month": 5,
+    "articles": 2,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2020,
+    "month": 6,
+    "articles": 5,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2020,
+    "month": 7,
+    "articles": 9,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2020,
+    "month": 8,
+    "articles": 5,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2020,
+    "month": 9,
+    "articles": 8,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2020,
+    "month": 10,
+    "articles": 8,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2020,
+    "month": 11,
+    "articles": 5,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2020,
+    "month": 12,
+    "articles": 7,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2021,
+    "month": 1,
+    "articles": 17,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2021,
+    "month": 2,
+    "articles": 3,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2021,
+    "month": 3,
+    "articles": 7,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2021,
+    "month": 4,
+    "articles": 8,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2021,
+    "month": 5,
+    "articles": 6,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2021,
+    "month": 6,
+    "articles": 8,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2021,
+    "month": 7,
+    "articles": 3,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2021,
+    "month": 8,
+    "articles": 6,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2021,
+    "month": 9,
+    "articles": 5,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2021,
+    "month": 10,
+    "articles": 5,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2021,
+    "month": 11,
+    "articles": 4,
+    "depth": 1
+  },
+  {
+    "id": "4",
+    "label": "subtopic 4",
+    "year": 2021,
+    "month": 12,
+    "articles": 6,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2012,
+    "month": 1,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2012,
+    "month": 2,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2012,
+    "month": 4,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2012,
+    "month": 5,
+    "articles": 2,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2012,
+    "month": 7,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2012,
+    "month": 8,
+    "articles": 2,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2012,
+    "month": 9,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2012,
+    "month": 11,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2012,
+    "month": 12,
+    "articles": 4,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2013,
+    "month": 1,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2013,
+    "month": 2,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2013,
+    "month": 4,
+    "articles": 3,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2013,
+    "month": 5,
+    "articles": 3,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2013,
+    "month": 6,
+    "articles": 4,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2013,
+    "month": 7,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2013,
+    "month": 8,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2013,
+    "month": 9,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2013,
+    "month": 10,
+    "articles": 2,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2013,
+    "month": 11,
+    "articles": 3,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2013,
+    "month": 12,
+    "articles": 3,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2014,
+    "month": 1,
+    "articles": 2,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2014,
+    "month": 2,
+    "articles": 5,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2014,
+    "month": 3,
+    "articles": 2,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2014,
+    "month": 4,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2014,
+    "month": 5,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2014,
+    "month": 6,
+    "articles": 3,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2014,
+    "month": 8,
+    "articles": 2,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2014,
+    "month": 9,
+    "articles": 5,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2014,
+    "month": 10,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2014,
+    "month": 11,
+    "articles": 2,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2014,
+    "month": 12,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2015,
+    "month": 1,
+    "articles": 4,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2015,
+    "month": 2,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2015,
+    "month": 3,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2015,
+    "month": 4,
+    "articles": 2,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2015,
+    "month": 6,
+    "articles": 3,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2015,
+    "month": 7,
+    "articles": 2,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2015,
+    "month": 9,
+    "articles": 2,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2015,
+    "month": 10,
+    "articles": 2,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2015,
+    "month": 11,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2015,
+    "month": 12,
+    "articles": 2,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2016,
+    "month": 2,
+    "articles": 3,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2016,
+    "month": 3,
+    "articles": 2,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2016,
+    "month": 4,
+    "articles": 4,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2016,
+    "month": 6,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2016,
+    "month": 7,
+    "articles": 4,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2016,
+    "month": 9,
+    "articles": 5,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2016,
+    "month": 10,
+    "articles": 3,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2016,
+    "month": 11,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2016,
+    "month": 12,
+    "articles": 4,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2017,
+    "month": 1,
+    "articles": 3,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2017,
+    "month": 2,
+    "articles": 4,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2017,
+    "month": 3,
+    "articles": 4,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2017,
+    "month": 4,
+    "articles": 4,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2017,
+    "month": 5,
+    "articles": 5,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2017,
+    "month": 6,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2017,
+    "month": 7,
+    "articles": 5,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2017,
+    "month": 8,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2017,
+    "month": 9,
+    "articles": 5,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2017,
+    "month": 10,
+    "articles": 4,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2017,
+    "month": 11,
+    "articles": 3,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2017,
+    "month": 12,
+    "articles": 5,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2018,
+    "month": 1,
+    "articles": 10,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2018,
+    "month": 2,
+    "articles": 3,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2018,
+    "month": 3,
+    "articles": 4,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2018,
+    "month": 4,
+    "articles": 7,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2018,
+    "month": 5,
+    "articles": 6,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2018,
+    "month": 6,
+    "articles": 8,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2018,
+    "month": 7,
+    "articles": 10,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2018,
+    "month": 8,
+    "articles": 7,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2018,
+    "month": 9,
+    "articles": 8,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2018,
+    "month": 10,
+    "articles": 4,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2018,
+    "month": 11,
+    "articles": 7,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2018,
+    "month": 12,
+    "articles": 6,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2019,
+    "month": 1,
+    "articles": 13,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2019,
+    "month": 2,
+    "articles": 4,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2019,
+    "month": 3,
+    "articles": 7,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2019,
+    "month": 4,
+    "articles": 8,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2019,
+    "month": 5,
+    "articles": 4,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2019,
+    "month": 6,
+    "articles": 5,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2019,
+    "month": 7,
+    "articles": 18,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2019,
+    "month": 8,
+    "articles": 9,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2019,
+    "month": 9,
+    "articles": 10,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2019,
+    "month": 10,
+    "articles": 13,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2019,
+    "month": 11,
+    "articles": 17,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2019,
+    "month": 12,
+    "articles": 15,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2020,
+    "month": 1,
+    "articles": 28,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2020,
+    "month": 2,
+    "articles": 13,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2020,
+    "month": 3,
+    "articles": 20,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2020,
+    "month": 4,
+    "articles": 10,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2020,
+    "month": 5,
+    "articles": 17,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2020,
+    "month": 6,
+    "articles": 15,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2020,
+    "month": 7,
+    "articles": 18,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2020,
+    "month": 8,
+    "articles": 10,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2020,
+    "month": 9,
+    "articles": 10,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2020,
+    "month": 10,
+    "articles": 20,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2020,
+    "month": 11,
+    "articles": 13,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2020,
+    "month": 12,
+    "articles": 13,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2021,
+    "month": 1,
+    "articles": 27,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2021,
+    "month": 2,
+    "articles": 15,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2021,
+    "month": 3,
+    "articles": 11,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2021,
+    "month": 4,
+    "articles": 21,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2021,
+    "month": 5,
+    "articles": 15,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2021,
+    "month": 6,
+    "articles": 17,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2021,
+    "month": 7,
+    "articles": 20,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2021,
+    "month": 8,
+    "articles": 17,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2021,
+    "month": 9,
+    "articles": 15,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2021,
+    "month": 10,
+    "articles": 21,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2021,
+    "month": 11,
+    "articles": 17,
+    "depth": 1
+  },
+  {
+    "id": "5",
+    "label": "subtopic 5",
+    "year": 2021,
+    "month": 12,
+    "articles": 13,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2012,
+    "month": 1,
+    "articles": 141,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2012,
+    "month": 2,
+    "articles": 100,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2012,
+    "month": 3,
+    "articles": 121,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2012,
+    "month": 4,
+    "articles": 134,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2012,
+    "month": 5,
+    "articles": 107,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2012,
+    "month": 6,
+    "articles": 147,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2012,
+    "month": 7,
+    "articles": 99,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2012,
+    "month": 8,
+    "articles": 111,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2012,
+    "month": 9,
+    "articles": 120,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2012,
+    "month": 10,
+    "articles": 108,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2012,
+    "month": 11,
+    "articles": 113,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2012,
+    "month": 12,
+    "articles": 129,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2013,
+    "month": 1,
+    "articles": 154,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2013,
+    "month": 2,
+    "articles": 93,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2013,
+    "month": 3,
+    "articles": 140,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2013,
+    "month": 4,
+    "articles": 132,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2013,
+    "month": 5,
+    "articles": 128,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2013,
+    "month": 6,
+    "articles": 162,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2013,
+    "month": 7,
+    "articles": 151,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2013,
+    "month": 8,
+    "articles": 133,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2013,
+    "month": 9,
+    "articles": 132,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2013,
+    "month": 10,
+    "articles": 152,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2013,
+    "month": 11,
+    "articles": 128,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2013,
+    "month": 12,
+    "articles": 163,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2014,
+    "month": 1,
+    "articles": 187,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2014,
+    "month": 2,
+    "articles": 121,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2014,
+    "month": 3,
+    "articles": 145,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2014,
+    "month": 4,
+    "articles": 142,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2014,
+    "month": 5,
+    "articles": 128,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2014,
+    "month": 6,
+    "articles": 152,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2014,
+    "month": 7,
+    "articles": 154,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2014,
+    "month": 8,
+    "articles": 130,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2014,
+    "month": 9,
+    "articles": 152,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2014,
+    "month": 10,
+    "articles": 133,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2014,
+    "month": 11,
+    "articles": 139,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2014,
+    "month": 12,
+    "articles": 157,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2015,
+    "month": 1,
+    "articles": 169,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2015,
+    "month": 2,
+    "articles": 107,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2015,
+    "month": 3,
+    "articles": 158,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2015,
+    "month": 4,
+    "articles": 169,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2015,
+    "month": 5,
+    "articles": 146,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2015,
+    "month": 6,
+    "articles": 163,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2015,
+    "month": 7,
+    "articles": 156,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2015,
+    "month": 8,
+    "articles": 145,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2015,
+    "month": 9,
+    "articles": 186,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2015,
+    "month": 10,
+    "articles": 181,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2015,
+    "month": 11,
+    "articles": 145,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2015,
+    "month": 12,
+    "articles": 185,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2016,
+    "month": 1,
+    "articles": 206,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2016,
+    "month": 2,
+    "articles": 165,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2016,
+    "month": 3,
+    "articles": 164,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2016,
+    "month": 4,
+    "articles": 154,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2016,
+    "month": 5,
+    "articles": 135,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2016,
+    "month": 6,
+    "articles": 200,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2016,
+    "month": 7,
+    "articles": 215,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2016,
+    "month": 8,
+    "articles": 154,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2016,
+    "month": 9,
+    "articles": 175,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2016,
+    "month": 10,
+    "articles": 167,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2016,
+    "month": 11,
+    "articles": 173,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2016,
+    "month": 12,
+    "articles": 204,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2017,
+    "month": 1,
+    "articles": 209,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2017,
+    "month": 2,
+    "articles": 172,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2017,
+    "month": 3,
+    "articles": 187,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2017,
+    "month": 4,
+    "articles": 163,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2017,
+    "month": 5,
+    "articles": 188,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2017,
+    "month": 6,
+    "articles": 229,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2017,
+    "month": 7,
+    "articles": 191,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2017,
+    "month": 8,
+    "articles": 185,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2017,
+    "month": 9,
+    "articles": 172,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2017,
+    "month": 10,
+    "articles": 164,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2017,
+    "month": 11,
+    "articles": 189,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2017,
+    "month": 12,
+    "articles": 218,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2018,
+    "month": 1,
+    "articles": 221,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2018,
+    "month": 2,
+    "articles": 163,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2018,
+    "month": 3,
+    "articles": 224,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2018,
+    "month": 4,
+    "articles": 220,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2018,
+    "month": 5,
+    "articles": 213,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2018,
+    "month": 6,
+    "articles": 221,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2018,
+    "month": 7,
+    "articles": 251,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2018,
+    "month": 8,
+    "articles": 184,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2018,
+    "month": 9,
+    "articles": 203,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2018,
+    "month": 10,
+    "articles": 261,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2018,
+    "month": 11,
+    "articles": 256,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2018,
+    "month": 12,
+    "articles": 242,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2019,
+    "month": 1,
+    "articles": 304,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2019,
+    "month": 2,
+    "articles": 169,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2019,
+    "month": 3,
+    "articles": 194,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2019,
+    "month": 4,
+    "articles": 213,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2019,
+    "month": 5,
+    "articles": 210,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2019,
+    "month": 6,
+    "articles": 227,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2019,
+    "month": 7,
+    "articles": 224,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2019,
+    "month": 8,
+    "articles": 223,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2019,
+    "month": 9,
+    "articles": 201,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2019,
+    "month": 10,
+    "articles": 219,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2019,
+    "month": 11,
+    "articles": 300,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2019,
+    "month": 12,
+    "articles": 288,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2020,
+    "month": 1,
+    "articles": 330,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2020,
+    "month": 2,
+    "articles": 229,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2020,
+    "month": 3,
+    "articles": 218,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2020,
+    "month": 4,
+    "articles": 236,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2020,
+    "month": 5,
+    "articles": 235,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2020,
+    "month": 6,
+    "articles": 258,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2020,
+    "month": 7,
+    "articles": 276,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2020,
+    "month": 8,
+    "articles": 266,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2020,
+    "month": 9,
+    "articles": 299,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2020,
+    "month": 10,
+    "articles": 267,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2020,
+    "month": 11,
+    "articles": 271,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2020,
+    "month": 12,
+    "articles": 405,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2021,
+    "month": 1,
+    "articles": 376,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2021,
+    "month": 2,
+    "articles": 241,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2021,
+    "month": 3,
+    "articles": 328,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2021,
+    "month": 4,
+    "articles": 322,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2021,
+    "month": 5,
+    "articles": 282,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2021,
+    "month": 6,
+    "articles": 319,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2021,
+    "month": 7,
+    "articles": 281,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2021,
+    "month": 8,
+    "articles": 228,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2021,
+    "month": 9,
+    "articles": 266,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2021,
+    "month": 10,
+    "articles": 247,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2021,
+    "month": 11,
+    "articles": 223,
+    "depth": 1
+  },
+  {
+    "id": "6",
+    "label": "subtopic 6",
+    "year": 2021,
+    "month": 12,
+    "articles": 314,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2012,
+    "month": 1,
+    "articles": 20,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2012,
+    "month": 2,
+    "articles": 8,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2012,
+    "month": 3,
+    "articles": 17,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2012,
+    "month": 4,
+    "articles": 20,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2012,
+    "month": 5,
+    "articles": 16,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2012,
+    "month": 6,
+    "articles": 26,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2012,
+    "month": 7,
+    "articles": 13,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2012,
+    "month": 8,
+    "articles": 13,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2012,
+    "month": 9,
+    "articles": 20,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2012,
+    "month": 10,
+    "articles": 6,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2012,
+    "month": 11,
+    "articles": 11,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2012,
+    "month": 12,
+    "articles": 16,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2013,
+    "month": 1,
+    "articles": 24,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2013,
+    "month": 2,
+    "articles": 12,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2013,
+    "month": 3,
+    "articles": 23,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2013,
+    "month": 4,
+    "articles": 18,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2013,
+    "month": 5,
+    "articles": 18,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2013,
+    "month": 6,
+    "articles": 22,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2013,
+    "month": 7,
+    "articles": 25,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2013,
+    "month": 8,
+    "articles": 16,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2013,
+    "month": 9,
+    "articles": 25,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2013,
+    "month": 10,
+    "articles": 22,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2013,
+    "month": 11,
+    "articles": 14,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2013,
+    "month": 12,
+    "articles": 19,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2014,
+    "month": 1,
+    "articles": 29,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2014,
+    "month": 2,
+    "articles": 21,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2014,
+    "month": 3,
+    "articles": 16,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2014,
+    "month": 4,
+    "articles": 27,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2014,
+    "month": 5,
+    "articles": 26,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2014,
+    "month": 6,
+    "articles": 23,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2014,
+    "month": 7,
+    "articles": 30,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2014,
+    "month": 8,
+    "articles": 27,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2014,
+    "month": 9,
+    "articles": 27,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2014,
+    "month": 10,
+    "articles": 24,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2014,
+    "month": 11,
+    "articles": 15,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2014,
+    "month": 12,
+    "articles": 19,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2015,
+    "month": 1,
+    "articles": 21,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2015,
+    "month": 2,
+    "articles": 22,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2015,
+    "month": 3,
+    "articles": 32,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2015,
+    "month": 4,
+    "articles": 32,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2015,
+    "month": 5,
+    "articles": 25,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2015,
+    "month": 6,
+    "articles": 25,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2015,
+    "month": 7,
+    "articles": 21,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2015,
+    "month": 8,
+    "articles": 26,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2015,
+    "month": 9,
+    "articles": 21,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2015,
+    "month": 10,
+    "articles": 37,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2015,
+    "month": 11,
+    "articles": 23,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2015,
+    "month": 12,
+    "articles": 27,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2016,
+    "month": 1,
+    "articles": 23,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2016,
+    "month": 2,
+    "articles": 22,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2016,
+    "month": 3,
+    "articles": 27,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2016,
+    "month": 4,
+    "articles": 26,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2016,
+    "month": 5,
+    "articles": 31,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2016,
+    "month": 6,
+    "articles": 34,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2016,
+    "month": 7,
+    "articles": 19,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2016,
+    "month": 8,
+    "articles": 31,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2016,
+    "month": 9,
+    "articles": 30,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2016,
+    "month": 10,
+    "articles": 15,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2016,
+    "month": 11,
+    "articles": 30,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2016,
+    "month": 12,
+    "articles": 22,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2017,
+    "month": 1,
+    "articles": 25,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2017,
+    "month": 2,
+    "articles": 27,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2017,
+    "month": 3,
+    "articles": 30,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2017,
+    "month": 4,
+    "articles": 32,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2017,
+    "month": 5,
+    "articles": 34,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2017,
+    "month": 6,
+    "articles": 34,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2017,
+    "month": 7,
+    "articles": 36,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2017,
+    "month": 8,
+    "articles": 26,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2017,
+    "month": 9,
+    "articles": 30,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2017,
+    "month": 10,
+    "articles": 27,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2017,
+    "month": 11,
+    "articles": 36,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2017,
+    "month": 12,
+    "articles": 31,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2018,
+    "month": 1,
+    "articles": 39,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2018,
+    "month": 2,
+    "articles": 36,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2018,
+    "month": 3,
+    "articles": 35,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2018,
+    "month": 4,
+    "articles": 42,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2018,
+    "month": 5,
+    "articles": 39,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2018,
+    "month": 6,
+    "articles": 38,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2018,
+    "month": 7,
+    "articles": 49,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2018,
+    "month": 8,
+    "articles": 27,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2018,
+    "month": 9,
+    "articles": 31,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2018,
+    "month": 10,
+    "articles": 32,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2018,
+    "month": 11,
+    "articles": 25,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2018,
+    "month": 12,
+    "articles": 34,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2019,
+    "month": 1,
+    "articles": 29,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2019,
+    "month": 2,
+    "articles": 34,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2019,
+    "month": 3,
+    "articles": 50,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2019,
+    "month": 4,
+    "articles": 42,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2019,
+    "month": 5,
+    "articles": 30,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2019,
+    "month": 6,
+    "articles": 45,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2019,
+    "month": 7,
+    "articles": 46,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2019,
+    "month": 8,
+    "articles": 37,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2019,
+    "month": 9,
+    "articles": 38,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2019,
+    "month": 10,
+    "articles": 47,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2019,
+    "month": 11,
+    "articles": 48,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2019,
+    "month": 12,
+    "articles": 37,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2020,
+    "month": 1,
+    "articles": 53,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2020,
+    "month": 2,
+    "articles": 42,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2020,
+    "month": 3,
+    "articles": 49,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2020,
+    "month": 4,
+    "articles": 46,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2020,
+    "month": 5,
+    "articles": 39,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2020,
+    "month": 6,
+    "articles": 50,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2020,
+    "month": 7,
+    "articles": 41,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2020,
+    "month": 8,
+    "articles": 25,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2020,
+    "month": 9,
+    "articles": 53,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2020,
+    "month": 10,
+    "articles": 51,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2020,
+    "month": 11,
+    "articles": 53,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2020,
+    "month": 12,
+    "articles": 72,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2021,
+    "month": 1,
+    "articles": 68,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2021,
+    "month": 2,
+    "articles": 46,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2021,
+    "month": 3,
+    "articles": 51,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2021,
+    "month": 4,
+    "articles": 46,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2021,
+    "month": 5,
+    "articles": 41,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2021,
+    "month": 6,
+    "articles": 51,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2021,
+    "month": 7,
+    "articles": 48,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2021,
+    "month": 8,
+    "articles": 48,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2021,
+    "month": 9,
+    "articles": 48,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2021,
+    "month": 10,
+    "articles": 47,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2021,
+    "month": 11,
+    "articles": 46,
+    "depth": 1
+  },
+  {
+    "id": "7",
+    "label": "subtopic 7",
+    "year": 2021,
+    "month": 12,
+    "articles": 39,
+    "depth": 1
+  },
+  {
+    "id": "8",
+    "label": "subtopic 8",
+    "year": 2012,
+    "month": 4,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "8",
+    "label": "subtopic 8",
+    "year": 2012,
+    "month": 6,
+    "articles": 2,
+    "depth": 1
+  },
+  {
+    "id": "8",
+    "label": "subtopic 8",
+    "year": 2012,
+    "month": 7,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "8",
+    "label": "subtopic 8",
+    "year": 2012,
+    "month": 10,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "8",
+    "label": "subtopic 8",
+    "year": 2013,
+    "month": 5,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "8",
+    "label": "subtopic 8",
+    "year": 2014,
+    "month": 1,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "8",
+    "label": "subtopic 8",
+    "year": 2014,
+    "month": 4,
+    "articles": 2,
+    "depth": 1
+  },
+  {
+    "id": "8",
+    "label": "subtopic 8",
+    "year": 2014,
+    "month": 5,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "8",
+    "label": "subtopic 8",
+    "year": 2014,
+    "month": 6,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "8",
+    "label": "subtopic 8",
+    "year": 2014,
+    "month": 10,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "8",
+    "label": "subtopic 8",
+    "year": 2014,
+    "month": 12,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "8",
+    "label": "subtopic 8",
+    "year": 2015,
+    "month": 8,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "8",
+    "label": "subtopic 8",
+    "year": 2015,
+    "month": 12,
+    "articles": 3,
+    "depth": 1
+  },
+  {
+    "id": "8",
+    "label": "subtopic 8",
+    "year": 2016,
+    "month": 4,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "8",
+    "label": "subtopic 8",
+    "year": 2016,
+    "month": 7,
+    "articles": 2,
+    "depth": 1
+  },
+  {
+    "id": "8",
+    "label": "subtopic 8",
+    "year": 2016,
+    "month": 11,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "8",
+    "label": "subtopic 8",
+    "year": 2016,
+    "month": 12,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "8",
+    "label": "subtopic 8",
+    "year": 2017,
+    "month": 1,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "8",
+    "label": "subtopic 8",
+    "year": 2017,
+    "month": 5,
+    "articles": 2,
+    "depth": 1
+  },
+  {
+    "id": "8",
+    "label": "subtopic 8",
+    "year": 2017,
+    "month": 6,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "8",
+    "label": "subtopic 8",
+    "year": 2017,
+    "month": 12,
+    "articles": 2,
+    "depth": 1
+  },
+  {
+    "id": "8",
+    "label": "subtopic 8",
+    "year": 2018,
+    "month": 1,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "8",
+    "label": "subtopic 8",
+    "year": 2018,
+    "month": 5,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "8",
+    "label": "subtopic 8",
+    "year": 2018,
+    "month": 6,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "8",
+    "label": "subtopic 8",
+    "year": 2018,
+    "month": 7,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "8",
+    "label": "subtopic 8",
+    "year": 2018,
+    "month": 9,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "8",
+    "label": "subtopic 8",
+    "year": 2018,
+    "month": 12,
+    "articles": 2,
+    "depth": 1
+  },
+  {
+    "id": "8",
+    "label": "subtopic 8",
+    "year": 2019,
+    "month": 1,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "8",
+    "label": "subtopic 8",
+    "year": 2019,
+    "month": 3,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "8",
+    "label": "subtopic 8",
+    "year": 2019,
+    "month": 10,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "8",
+    "label": "subtopic 8",
+    "year": 2019,
+    "month": 11,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "8",
+    "label": "subtopic 8",
+    "year": 2019,
+    "month": 12,
+    "articles": 5,
+    "depth": 1
+  },
+  {
+    "id": "8",
+    "label": "subtopic 8",
+    "year": 2020,
+    "month": 3,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "8",
+    "label": "subtopic 8",
+    "year": 2020,
+    "month": 6,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "8",
+    "label": "subtopic 8",
+    "year": 2020,
+    "month": 7,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "8",
+    "label": "subtopic 8",
+    "year": 2020,
+    "month": 8,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "8",
+    "label": "subtopic 8",
+    "year": 2020,
+    "month": 10,
+    "articles": 3,
+    "depth": 1
+  },
+  {
+    "id": "8",
+    "label": "subtopic 8",
+    "year": 2020,
+    "month": 12,
+    "articles": 3,
+    "depth": 1
+  },
+  {
+    "id": "8",
+    "label": "subtopic 8",
+    "year": 2021,
+    "month": 1,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "8",
+    "label": "subtopic 8",
+    "year": 2021,
+    "month": 3,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "8",
+    "label": "subtopic 8",
+    "year": 2021,
+    "month": 4,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "8",
+    "label": "subtopic 8",
+    "year": 2021,
+    "month": 5,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "8",
+    "label": "subtopic 8",
+    "year": 2021,
+    "month": 6,
+    "articles": 2,
+    "depth": 1
+  },
+  {
+    "id": "8",
+    "label": "subtopic 8",
+    "year": 2021,
+    "month": 7,
+    "articles": 4,
+    "depth": 1
+  },
+  {
+    "id": "8",
+    "label": "subtopic 8",
+    "year": 2021,
+    "month": 8,
+    "articles": 3,
+    "depth": 1
+  },
+  {
+    "id": "8",
+    "label": "subtopic 8",
+    "year": 2021,
+    "month": 10,
+    "articles": 3,
+    "depth": 1
+  },
+  {
+    "id": "8",
+    "label": "subtopic 8",
+    "year": 2021,
+    "month": 11,
+    "articles": 1,
+    "depth": 1
+  },
+  {
+    "id": "8",
+    "label": "subtopic 8",
+    "year": 2021,
+    "month": 12,
+    "articles": 2,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2012,
+    "month": 1,
+    "articles": 63,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2012,
+    "month": 2,
+    "articles": 41,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2012,
+    "month": 3,
+    "articles": 72,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2012,
+    "month": 4,
+    "articles": 51,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2012,
+    "month": 5,
+    "articles": 52,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2012,
+    "month": 6,
+    "articles": 64,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2012,
+    "month": 7,
+    "articles": 68,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2012,
+    "month": 8,
+    "articles": 37,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2012,
+    "month": 9,
+    "articles": 66,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2012,
+    "month": 10,
+    "articles": 53,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2012,
+    "month": 11,
+    "articles": 52,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2012,
+    "month": 12,
+    "articles": 65,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2013,
+    "month": 1,
+    "articles": 91,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2013,
+    "month": 2,
+    "articles": 57,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2013,
+    "month": 3,
+    "articles": 70,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2013,
+    "month": 4,
+    "articles": 72,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2013,
+    "month": 5,
+    "articles": 68,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2013,
+    "month": 6,
+    "articles": 77,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2013,
+    "month": 7,
+    "articles": 84,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2013,
+    "month": 8,
+    "articles": 59,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2013,
+    "month": 9,
+    "articles": 78,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2013,
+    "month": 10,
+    "articles": 58,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2013,
+    "month": 11,
+    "articles": 81,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2013,
+    "month": 12,
+    "articles": 74,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2014,
+    "month": 1,
+    "articles": 86,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2014,
+    "month": 2,
+    "articles": 51,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2014,
+    "month": 3,
+    "articles": 74,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2014,
+    "month": 4,
+    "articles": 72,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2014,
+    "month": 5,
+    "articles": 81,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2014,
+    "month": 6,
+    "articles": 101,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2014,
+    "month": 7,
+    "articles": 92,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2014,
+    "month": 8,
+    "articles": 77,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2014,
+    "month": 9,
+    "articles": 84,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2014,
+    "month": 10,
+    "articles": 74,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2014,
+    "month": 11,
+    "articles": 64,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2014,
+    "month": 12,
+    "articles": 100,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2015,
+    "month": 1,
+    "articles": 90,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2015,
+    "month": 2,
+    "articles": 73,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2015,
+    "month": 3,
+    "articles": 96,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2015,
+    "month": 4,
+    "articles": 86,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2015,
+    "month": 5,
+    "articles": 82,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2015,
+    "month": 6,
+    "articles": 90,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2015,
+    "month": 7,
+    "articles": 100,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2015,
+    "month": 8,
+    "articles": 75,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2015,
+    "month": 9,
+    "articles": 84,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2015,
+    "month": 10,
+    "articles": 118,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2015,
+    "month": 11,
+    "articles": 84,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2015,
+    "month": 12,
+    "articles": 105,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2016,
+    "month": 1,
+    "articles": 80,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2016,
+    "month": 2,
+    "articles": 88,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2016,
+    "month": 3,
+    "articles": 100,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2016,
+    "month": 4,
+    "articles": 89,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2016,
+    "month": 5,
+    "articles": 81,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2016,
+    "month": 6,
+    "articles": 112,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2016,
+    "month": 7,
+    "articles": 140,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2016,
+    "month": 8,
+    "articles": 84,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2016,
+    "month": 9,
+    "articles": 104,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2016,
+    "month": 10,
+    "articles": 93,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2016,
+    "month": 11,
+    "articles": 83,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2016,
+    "month": 12,
+    "articles": 98,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2017,
+    "month": 1,
+    "articles": 105,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2017,
+    "month": 2,
+    "articles": 89,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2017,
+    "month": 3,
+    "articles": 105,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2017,
+    "month": 4,
+    "articles": 111,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2017,
+    "month": 5,
+    "articles": 88,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2017,
+    "month": 6,
+    "articles": 167,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2017,
+    "month": 7,
+    "articles": 99,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2017,
+    "month": 8,
+    "articles": 80,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2017,
+    "month": 9,
+    "articles": 82,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2017,
+    "month": 10,
+    "articles": 103,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2017,
+    "month": 11,
+    "articles": 107,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2017,
+    "month": 12,
+    "articles": 112,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2018,
+    "month": 1,
+    "articles": 117,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2018,
+    "month": 2,
+    "articles": 98,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2018,
+    "month": 3,
+    "articles": 106,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2018,
+    "month": 4,
+    "articles": 107,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2018,
+    "month": 5,
+    "articles": 82,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2018,
+    "month": 6,
+    "articles": 114,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2018,
+    "month": 7,
+    "articles": 111,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2018,
+    "month": 8,
+    "articles": 107,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2018,
+    "month": 9,
+    "articles": 93,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2018,
+    "month": 10,
+    "articles": 116,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2018,
+    "month": 11,
+    "articles": 136,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2018,
+    "month": 12,
+    "articles": 143,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2019,
+    "month": 1,
+    "articles": 104,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2019,
+    "month": 2,
+    "articles": 85,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2019,
+    "month": 3,
+    "articles": 107,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2019,
+    "month": 4,
+    "articles": 115,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2019,
+    "month": 5,
+    "articles": 109,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2019,
+    "month": 6,
+    "articles": 133,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2019,
+    "month": 7,
+    "articles": 135,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2019,
+    "month": 8,
+    "articles": 101,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2019,
+    "month": 9,
+    "articles": 99,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2019,
+    "month": 10,
+    "articles": 115,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2019,
+    "month": 11,
+    "articles": 180,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2019,
+    "month": 12,
+    "articles": 149,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2020,
+    "month": 1,
+    "articles": 139,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2020,
+    "month": 2,
+    "articles": 109,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2020,
+    "month": 3,
+    "articles": 128,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2020,
+    "month": 4,
+    "articles": 120,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2020,
+    "month": 5,
+    "articles": 122,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2020,
+    "month": 6,
+    "articles": 136,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2020,
+    "month": 7,
+    "articles": 162,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2020,
+    "month": 8,
+    "articles": 119,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2020,
+    "month": 9,
+    "articles": 179,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2020,
+    "month": 10,
+    "articles": 168,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2020,
+    "month": 11,
+    "articles": 136,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2020,
+    "month": 12,
+    "articles": 258,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2021,
+    "month": 1,
+    "articles": 204,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2021,
+    "month": 2,
+    "articles": 158,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2021,
+    "month": 3,
+    "articles": 180,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2021,
+    "month": 4,
+    "articles": 187,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2021,
+    "month": 5,
+    "articles": 153,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2021,
+    "month": 6,
+    "articles": 214,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2021,
+    "month": 7,
+    "articles": 170,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2021,
+    "month": 8,
+    "articles": 138,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2021,
+    "month": 9,
+    "articles": 155,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2021,
+    "month": 10,
+    "articles": 170,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2021,
+    "month": 11,
+    "articles": 150,
+    "depth": 1
+  },
+  {
+    "id": "9",
+    "label": "subtopic 9",
+    "year": 2021,
+    "month": 12,
+    "articles": 235,
+    "depth": 1
+  }
+]
